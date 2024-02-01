@@ -1,0 +1,8 @@
+{
+  "name": "drcoin",
+  "logo": "https://raw.githubusercontent.com/alltcoindr/Aleo-Tiktacto/main/hayatagaci.jpg",
+  "rpc_url": "http://37.60.227.218:9944",
+  "explorer_url": "37.60.227.218:4000",
+  "metrics_endpoint": "37.60.227.218:9615/metrics",
+  "id": "217c49f6-3cfb-4755-a8fc-001c9a7753af"
+}
