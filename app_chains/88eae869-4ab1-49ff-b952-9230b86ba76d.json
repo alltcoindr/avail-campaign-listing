@@ -1,0 +1,8 @@
+{
+  "name": "drcoin",
+  "logo": "https://raw.githubusercontent.com/alltcoindr/avail-campaign-listing/main/pngegg.png",
+  "rpc_url": "http://37.60.227.218:9944",
+  "explorer_url": "http://37.60.227.218:4000",
+  "metrics_endpoint": "http://37.60.227.218:9615/metrics",
+  "id": "88eae869-4ab1-49ff-b952-9230b86ba76d"
+}
